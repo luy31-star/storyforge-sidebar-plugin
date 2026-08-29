@@ -137,7 +137,7 @@ StoryForge AI 视频生成是一款面向飞书多维表格的侧边栏插件，
 ## 6. 发布前技术检查
 
 - 公开代码仓库：https://github.com/luy31-star/storyforge-sidebar-plugin
-- 当前审核提交：`8712f14 feat: publish StoryForge Base sidebar plugin`
+- 当前审核提交：`28577a2 docs: add marketplace submission assets`
 - 插件默认 API：`https://www.storyforge.asia`
 - 已知生产 CORS 当前只允许：
   - `https://storyforge.asia`
